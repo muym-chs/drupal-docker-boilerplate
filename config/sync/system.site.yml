@@ -1,0 +1,14 @@
+uuid: 47c61360-4da4-4937-bba3-35a48a011eb6
+name: 'WebThings Drupal 8 Boilerplate'
+mail: admin@example.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
